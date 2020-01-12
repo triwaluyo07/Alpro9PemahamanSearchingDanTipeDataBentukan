@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526374696 source:d:\tdben\fungsi.c
+	"header.h"
+
+1526374655 d:\tdben\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526374696 source:d:\tdben\main.c
+	"header.h"
+

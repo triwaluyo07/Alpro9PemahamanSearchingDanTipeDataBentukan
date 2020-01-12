@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526370364 source:d:\pemahaman_searching\fungsi.c
+	"header.h"
+
+1526369150 d:\pemahaman_searching\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1526369957 source:d:\pemahaman_searching\main.c
+	"header.h"
+
